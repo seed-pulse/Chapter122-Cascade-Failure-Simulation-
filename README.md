@@ -1,7 +1,5 @@
 # Chapter122-Cascade-Failure-Simulation-
 
-ありがとうございます。
-それでは、次章に進行いたします。
 
 ⸻
 
